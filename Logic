@@ -1,0 +1,9 @@
+If the stars are aligned to left edge → no spaces.
+
+If the stars are pushed to right → spaces first.
+
+Stars count:
+
+Increasing row by row → (i+1)
+
+Decreasing row by row → (n-i)
